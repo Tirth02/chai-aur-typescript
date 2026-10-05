@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let response = "42";
 // forcefully asserting the type of response to be string
 let numericLength = response.length;
@@ -51,4 +49,5 @@ function neverReturn() {
     while (true) {
     }
 }
+export {};
 //# sourceMappingURL=moreTypes.js.map

@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 const chai = {
     name: "Masala Chai",
     price: 20,
@@ -42,4 +40,5 @@ const coffeeInfo = {
     name: "Brew",
     price: 100
 };
+export {};
 //# sourceMappingURL=objectTs.js.map

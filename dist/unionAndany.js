@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 // This is called union
 let subs = '1M';
 // Uses of union
@@ -17,4 +15,5 @@ for (let order of orders) {
 }
 console.log(typeof (currentOrder));
 console.log(currentOrder);
+export {};
 //# sourceMappingURL=unionAndany.js.map

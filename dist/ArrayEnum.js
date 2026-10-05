@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 const chaiFlavours = ["Masala", "Adrak"];
 const chaiPrice = [10, 20];
 const rating = [4.5, 5.0];
@@ -65,4 +63,5 @@ var Sugars;
 const s = Sugars.LOW;
 let t = ["chai", 10];
 t.push("extra"); // This will not give error because we can push any value to the tuple but it will give error if we try to access the value at index 2 because it is not defined in the tuple type.
+export {};
 //# sourceMappingURL=ArrayEnum.js.map
